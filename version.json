@@ -1,14 +1,44 @@
 {
-  "mac":{
-    "link":"https://apps.apple.com/us/app/sendyflow/id6799385612?mt=12",
-    "version":"2.2.2"
+  "mac": {
+    "version": "2.2.2",
+    "link": "https://apps.apple.com/us/app/sendyflow/id6799385612?mt=12",
+    "mandatory": false,
+    "releaseDate": "2026-10-18",
+    "title": "What's New in v2.2.2",
+    "whatsNew": {
+      "features": [
+        "Enhanced collection migration with full Form-Data and Raw Body support."
+      ],
+      "fixes": [
+        "Fixed missing query params and headers when importing Postman collections.",
+        "Resolved tab state caching when clicking requests in the sidebar."
+      ]
+    }
   },
-  "linux":{
-    "link":"https://snapcraft.io/sendyflow",
-    "version":"2.2.1"
+  "linux": {
+    "version": "2.2.1",
+    "link": "https://snapcraft.io/sendyflow",
+    "mandatory": false,
+    "releaseDate": "2026-10-14",
+    "title": "What's New in v2.2.1",
+    "whatsNew": {
+      "features": [
+        "Initial Linux Snap store release."
+      ],
+      "fixes": []
+    }
   },
-  "win":{
-    "link":"https://apps.microsoft.com/detail/9n7lgn0xp8sl?hl=en-US",
-    "version":"2.2.1"
+  "win": {
+    "version": "2.2.1",
+    "link": "https://apps.microsoft.com/detail/9n7lgn0xp8sl?hl=en-US",
+    "mandatory": false,
+    "releaseDate": "2026-10-14",
+    "title": "What's New in v2.2.1",
+    "whatsNew": {
+      "features": [
+        "Initial Windows Store release."
+      ],
+      "fixes": []
+    }
   }
 }
