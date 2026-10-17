@@ -1,14 +1,14 @@
 {
   "mac":{
     "link":"https://apps.apple.com/us/app/sendyflow/id6799385612?mt=12",
-    "linux":"2.2.2"
+    "version":"2.2.2"
   },
   "linux":{
     "link":"https://snapcraft.io/sendyflow",
-    "linux":"2.2.1"
+    "version":"2.2.1"
   },
   "win":{
     "link":"https://apps.microsoft.com/detail/9n7lgn0xp8sl?hl=en-US",
-    "linux":"2.2.1"
+    "version":"2.2.1"
   }
 }
